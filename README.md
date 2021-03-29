@@ -1,3 +1,3 @@
-## TemplatePro
+# TemplatePro
 
-# Website Template
+## Website Template
